@@ -1,4 +1,4 @@
-# 
+# 开源 sushiswap trading bot 脚本 Mac OS版 | 轻量 sushiswap trading bot 脚本 PC Windows版。集成 反转信号 和 实时数据源，跨平台性能最大化。
 
 
 
